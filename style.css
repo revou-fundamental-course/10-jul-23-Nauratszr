@@ -1,0 +1,28 @@
+body {
+    font-family: Segoe UI;
+}
+form {
+    background-color: #eeeeee ;
+    width: 100%;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.BB {
+    width: 98%;
+}
+.usia {
+    width: 98%;
+}
+.TB {
+    width: 98%;
+}
+.input-hitung {
+    background-color: rgb(93, 181, 211);
+    color: white;
+    border-radius: 5px;
+}
+.input-reset {
+    background-color: white;
+    border-radius: 5px;
+}
